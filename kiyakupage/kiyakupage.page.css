@@ -1,0 +1,15 @@
+ion-title {
+  text-align: center;
+  font-family: Arial Black, serif;
+  font-size: 24px;
+  width: 100%;
+}
+
+ion-buttons {
+  position: absolute;
+}
+
+p {
+  font-size: 12px;
+  margin: 0;
+}

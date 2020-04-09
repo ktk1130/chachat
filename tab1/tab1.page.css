@@ -1,0 +1,40 @@
+ion-title {
+  text-align: center;
+  font-family: Arial Black, serif;
+  font-size: 24px;
+}
+
+ion-content p {
+  font-size: 14px;
+  font-family: kan415typos-std, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ion-content .strong {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+ion-content .chat_btn {
+  font-family: kan415typos-std, sans-serif;
+  display: block;
+  font-size: 20px;
+  margin: 20px auto;
+  background-color: #9DF7A0;
+  color: #606060;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+
+ion-content .chat_btn:hover {
+  background-color: #8ad98d;
+}
+
+ion-content .version {
+  font-family: sans-serif;
+  text-align: center;
+  color: gray;
+  font-size: 12px;
+}
